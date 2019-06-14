@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="info" section_id="f0448f14dbc23300a751b0803996191e" sys_domain="global" table="x_367056_indu_it_sriindu2" version="3" view="self">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:50</sys_created_on>
+            <sys_id>f4448f14dbc23300a751b0803996191f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="info" display_value="info" name="x_367056_indu_it_sriindu2" sys_domain="global" view="f8448f14dbc23300a751b0803996191a">f0448f14dbc23300a751b0803996191e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:50</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>info</caption>
+            <header>false</header>
+            <name>x_367056_indu_it_sriindu2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 09:48:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0448f14dbc23300a751b0803996191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="indu it">d36f3914db023300a751b08039961963</sys_scope>
+            <sys_update_name>sys_ui_section_f0448f14dbc23300a751b0803996191e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 09:48:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="self" name="self">f8448f14dbc23300a751b0803996191a</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log_incident" max_length="40" name="x_367056_indu_it_incident" sizeclass="3" type="collection">
+        <element choice="1" label="contacttype" max_length="100" name="contacttype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="contact" value="phone"/>
+            </choice>
+        </element>
+        <element choice="1" label="contactype2" max_length="100" name="contactype2" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Contact user" max_length="100" name="contact_user" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="phone" value="2434535513"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="email" type="string"/>
+        <element default="default" label="abc" max_length="100" name="incidentabc" read_only="true" type="string"/>
+        <element label="incident_J" max_length="100" name="incident_jo" type="journal"/>
+        <element label="indu incident" max_length="40" name="indu_incident" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_start_date" type="glide_date"/>
+    </element>
+</database>

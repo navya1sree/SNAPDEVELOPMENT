@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="sriindu2" max_length="40" name="x_367056_indu_it_sriindu2" type="collection">
+        <element choice="1" label="contact type" max_length="100" name="contact_type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_367056_indu_it.fisrtsi</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>fisrtsi</name>
+        <script><![CDATA[var fisrtsi = Class.create();
+fisrtsi.prototype = {
+    initialize: function() {
+    
+	},
+    helloworld:function(){
+		gs.addInfoMessage("i have called from script include");
+	},
+	type: 'fisrtsi'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 08:44:48</sys_created_on>
+        <sys_id>51744589db823300a751b080399619c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fisrtsi</sys_name>
+        <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="indu it">d36f3914db023300a751b08039961963</sys_scope>
+        <sys_update_name>sys_script_include_51744589db823300a751b080399619c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 08:44:48</sys_updated_on>
+    </sys_script_include>
+</record_update>

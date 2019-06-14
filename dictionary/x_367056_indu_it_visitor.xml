@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="visitor" max_length="40" name="x_367056_indu_it_visitor" type="collection">
+        <element label="address" max_length="40" name="address" type="string"/>
+        <element label="email" max_length="40" name="email" type="string"/>
+        <element label="in  date" max_length="40" name="in_date" type="glide_date"/>
+        <element label="in time" max_length="40" name="in_time" type="glide_time"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="out date" max_length="40" name="out_date" type="glide_date"/>
+        <element label="out time" max_length="40" name="out_time" type="glide_time"/>
+        <element label="phone" max_length="40" name="phone" type="integer"/>
+        <element label="purpose of visit" max_length="40" name="purpose_of_visit" type="string"/>
+        <element label="whom to meet" max_length="40" name="whom_to_meet" reference="alm_entitlement_user" type="string"/>
+    </element>
+</database>

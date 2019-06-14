@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table_incident_backup" max_length="40" name="x_367056_indu_it_table_incident_backup" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="request date" max_length="40" name="request_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="ret date" max_length="40" name="return_date" type="glide_date_time"/>
+        <element label="short description" max_length="40" name="short_description" type="string"/>
+    </element>
+</database>
