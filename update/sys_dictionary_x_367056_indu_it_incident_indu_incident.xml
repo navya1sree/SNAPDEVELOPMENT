@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-11 05:04:15</sys_created_on>
-        <sys_id>a19f7954db023300a751b080399619d1</sys_id>
+        <sys_id>abed5dd5db023300a751b08039961991</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>indu incident</sys_name>
         <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>
         <sys_policy/>
         <sys_scope display_value="indu it">d36f3914db023300a751b08039961963</sys_scope>
         <sys_update_name>sys_dictionary_x_367056_indu_it_incident_indu_incident</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-11 05:04:15</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-06-14 04:55:43</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="table_incident_backup" max_length="40" name="x_367056_indu_it_table_incident_backup" type="collection">
+        <element label="Facility" max_length="32" name="facility" reference="sys_user_grmember" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="facility user" max_length="40" name="facility_user" type="string"/>
+        <element label="facility user1" max_length="32" name="facility_user1" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="log incident" max_length="40" name="log_incident" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="request date" max_length="40" name="request_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="ret date" max_length="40" name="return_date" type="glide_date_time"/>
         <element label="short description" max_length="40" name="short_description" type="string"/>
+        <index name="index">
+            <element name="facility_user1"/>
+        </index>
+        <index name="index2">
+            <element name="facility"/>
+        </index>
     </element>
 </database>

@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-11 08:08:44</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2019-06-14 04:55:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dfd5119db023300a751b080399619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_367056_indu_it_incident" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">925d6a54db823300a751b08039961963</sys_ui_form>
+            <sys_ui_section caption="user_info" display_value="user_info" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">a7fbaa14db823300a751b0803996191f</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2019-06-14 04:55:50</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_367056_indu_it_incident</name>
             <roles/>

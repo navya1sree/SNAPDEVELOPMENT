@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 05:48:49</sys_created_on>
+        <sys_id>01705eaedb023300a751b08039961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_367056_indu_it_aci_action.x_367056_indu_it_aci_action</sys_name>
+        <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="indu it">d36f3914db023300a751b08039961963</sys_scope>
+        <sys_security_acl display_value="x_367056_indu_it_aci_action">45705eaedb023300a751b08039961905</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_01705eaedb023300a751b08039961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 05:48:49</sys_updated_on>
+        <sys_user_role display_value="x_367056_indu_it_aci_action" name="x_367056_indu_it_aci_action">49701eaedb023300a751b080399619f7</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

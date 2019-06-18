@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="log_incident" max_length="40" name="x_367056_indu_it_incident" sizeclass="3" type="collection">
-        <element choice="1" label="contacttype" max_length="100" name="contacttype" type="choice">
+    <element extends="task" label="log_incident" max_length="40" name="x_367056_indu_it_incident" sizeclass="13" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Aaprover" max_length="40" name="aaprover" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Approver" max_length="40" name="approver" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="assigned by" max_length="40" name="assigned_by" type="string"/>
+        <element choice="1" label="Category" max_length="40" name="category" type="string">
             <choice>
+                <element inactive_on_update="false" label="hardware" value="hw"/>
+                <element inactive_on_update="false" label="network" value="n/w"/>
+                <element inactive_on_update="false" label="software" value="s/w"/>
+            </choice>
+        </element>
+        <element choice="1" label="Contacttype" max_length="100" name="contacttype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="contact" value="email"/>
                 <element inactive_on_update="false" label="contact" value="phone"/>
             </choice>
         </element>

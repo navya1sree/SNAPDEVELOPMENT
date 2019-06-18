@@ -10,6 +10,25 @@
             <name>x_367056_indu_it_incident</name>
             <sequence/>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 05:28:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e65ed5ddb023300a751b08039961904</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 05:28:52</sys_updated_on>
+            <value>email</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>contacttype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>contact</label>
+            <language>en</language>
+            <name>x_367056_indu_it_incident</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-06-11 07:52:45</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
@@ -25,7 +44,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-06-11 07:52:45</sys_created_on>
-            <sys_id>14b9aa90db823300a751b08039961951</sys_id>
+            <sys_id>d9fd1119db023300a751b08039961989</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>contacttype</sys_name>
             <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>

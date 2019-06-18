@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>83072445db423300a751b080399619a1</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>9e194e55db823300a751b080399619f0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>active</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>0b072445db423300a751b080399619a1</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>12194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_start_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>8b072445db423300a751b080399619a1</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>92194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>sys_created_by</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>0f072445db423300a751b080399619a1</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>16194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,83 +60,139 @@
             <element>due_date</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>8f072445db423300a751b080399619a1</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>96194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>contacttype</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>03072445db423300a751b080399619a2</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contact_user</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>83072445db423300a751b080399619a2</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>1a194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>7</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>07072445db423300a751b080399619a2</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>9a194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>8</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>87072445db423300a751b080399619a2</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>1e194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>email</element>
-            <position>9</position>
+            <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-06-13 06:17:24</sys_created_on>
-            <sys_id>0b072445db423300a751b080399619a2</sys_id>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>9e194e55db823300a751b080399619f1</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 06:17:24</sys_updated_on>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>12194e55db823300a751b080399619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>92194e55db823300a751b080399619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>16194e55db823300a751b080399619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_by</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>96194e55db823300a751b080399619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approver</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 08:04:17</sys_created_on>
+            <sys_id>1a194e55db823300a751b080399619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_367056_indu_it_incident" sys_domain="global" view="Default view">f2788ad8db023300a751b08039961916</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 08:04:17</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
