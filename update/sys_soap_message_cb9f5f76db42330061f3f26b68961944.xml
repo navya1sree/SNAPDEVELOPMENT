@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_soap_message">
+    <sys_soap_message action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <authentication_type>basic</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile display_value="b auth">16dfd3b6db42330061f3f26b68961955</basic_auth_profile>
+        <basic_auth_user/>
+        <description/>
+        <download_wsdl>true</download_wsdl>
+        <enable_mutual_auth>false</enable_mutual_auth>
+        <name>sp1</name>
+        <protocol_profile/>
+        <sys_class_name>sys_soap_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-19 06:13:32</sys_created_on>
+        <sys_id>cb9f5f76db42330061f3f26b68961944</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>sp1</sys_name>
+        <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="indu it">d36f3914db023300a751b08039961963</sys_scope>
+        <sys_update_name>sys_soap_message_cb9f5f76db42330061f3f26b68961944</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 06:25:38</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <wsdl>https://dev73715.service-now.com/x_367056_indu_it_wpt.do?WSDL</wsdl>
+        <wsdl_xml/>
+    </sys_soap_message>
+</record_update>

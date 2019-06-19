@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="update log" max_length="40" name="x_367056_indu_it_update_log" type="collection">
+        <element label="update" max_length="100" name="update" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="update table">3b0f07eedb02330061f3f26b68961930</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>update tables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_367056_indu_it_update_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_367056_indu_it.update_table_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-18 10:22:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b0f07eedb02330061f3f26b68961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update tables</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="indu it" source="x_367056_indu_it">d36f3914db023300a751b08039961963</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="indu it">d36f3914db023300a751b08039961963</sys_scope>
+        <sys_update_name>sys_app_module_7b0f07eedb02330061f3f26b68961932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 10:22:21</sys_updated_on>
+        <timeline_page/>
+        <title>update tables</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
